@@ -12,3 +12,4 @@ D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Deb
 D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.pdb
 D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.genruntimeconfig.cache
 D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\ref\LeariningConsoleApp.dll
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.sourcelink.json

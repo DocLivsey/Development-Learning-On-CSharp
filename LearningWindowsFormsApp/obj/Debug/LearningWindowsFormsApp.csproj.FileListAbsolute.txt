@@ -1,0 +1,9 @@
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\bin\Debug\LearningWindowsFormsApp.exe.config
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\bin\Debug\LearningWindowsFormsApp.exe
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\bin\Debug\LearningWindowsFormsApp.pdb
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\obj\Debug\LearningWindowsFormsApp.csprojResolveAssemblyReference.cache
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\obj\Debug\LearningWindowsFormsApp.Properties.Resources.resources
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\obj\Debug\LearningWindowsFormsApp.csproj.GenerateResource.Cache
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\obj\Debug\LearningWindowsFormsApp.exe
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\obj\Debug\LearningWindowsFormsApp.pdb
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LearningWindowsFormsApp\obj\Debug\LearningWindowsFormsApp.Form1.resources
