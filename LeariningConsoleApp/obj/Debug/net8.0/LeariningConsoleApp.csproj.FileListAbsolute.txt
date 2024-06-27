@@ -1,0 +1,15 @@
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\bin\Debug\net8.0\LeariningConsoleApp.exe
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\bin\Debug\net8.0\LeariningConsoleApp.deps.json
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\bin\Debug\net8.0\LeariningConsoleApp.runtimeconfig.json
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\bin\Debug\net8.0\LeariningConsoleApp.dll
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\bin\Debug\net8.0\LeariningConsoleApp.pdb
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.AssemblyInfoInputs.cache
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.AssemblyInfo.cs
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.csproj.CoreCompileInputs.cache
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.dll
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\refint\LeariningConsoleApp.dll
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.pdb
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.genruntimeconfig.cache
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\ref\LeariningConsoleApp.dll
+D:\My Files\All Scripts\RiderProjects\LearningCSharp\LeariningConsoleApp\obj\Debug\net8.0\LeariningConsoleApp.sourcelink.json
